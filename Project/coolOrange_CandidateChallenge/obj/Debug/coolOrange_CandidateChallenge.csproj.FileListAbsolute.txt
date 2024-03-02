@@ -1,0 +1,7 @@
+C:\Users\Paul Menzel\Documents\Praktikum\Project\coolOrange_CandidateChallenge\bin\Debug\coolOrange_CandidateChallenge.exe.config
+C:\Users\Paul Menzel\Documents\Praktikum\Project\coolOrange_CandidateChallenge\bin\Debug\coolOrange_CandidateChallenge.exe
+C:\Users\Paul Menzel\Documents\Praktikum\Project\coolOrange_CandidateChallenge\bin\Debug\coolOrange_CandidateChallenge.pdb
+C:\Users\Paul Menzel\Documents\Praktikum\Project\coolOrange_CandidateChallenge\obj\Debug\coolOrange_CandidateChallenge.csproj.AssemblyReference.cache
+C:\Users\Paul Menzel\Documents\Praktikum\Project\coolOrange_CandidateChallenge\obj\Debug\coolOrange_CandidateChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Paul Menzel\Documents\Praktikum\Project\coolOrange_CandidateChallenge\obj\Debug\coolOrange_CandidateChallenge.exe
+C:\Users\Paul Menzel\Documents\Praktikum\Project\coolOrange_CandidateChallenge\obj\Debug\coolOrange_CandidateChallenge.pdb
